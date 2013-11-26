@@ -1,4 +1,5 @@
 <?php
+App::uses('OpauthAppController', 'Opauth.Controller');
 class OpauthController extends OpauthAppController {
 
 	public function beforeFilter() {

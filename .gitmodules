@@ -1,3 +1,24 @@
 [submodule "Vendor/Opauth"]
 	path = Vendor/Opauth
-	url = git://github.com/uzyn/opauth.git
+	url = git://github.com/opauth/opauth.git
+[submodule "Strategy/Facebook"]
+	path = Strategy/Facebook
+	url = https://github.com/opauth/facebook.git
+[submodule "Strategy/GitHub"]
+	path = Strategy/GitHub
+	url = https://github.com/opauth/github.git
+[submodule "Strategy/Google"]
+	path = Strategy/Google
+	url = https://pencildrummer@github.com/pencildrummer/google.git
+[submodule "Strategy/LinkedIn"]
+	path = Strategy/LinkedIn
+	url = https://github.com/opauth/linkedin.git
+[submodule "Strategy/Live"]
+	path = Strategy/Live
+	url = https://github.com/opauth/live.git
+[submodule "Strategy/OpenID"]
+	path = Strategy/OpenID
+	url = https://github.com/opauth/openid.git
+[submodule "Strategy/Twitter"]
+	path = Strategy/Twitter
+	url = https://github.com/opauth/twitter.git
